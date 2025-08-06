@@ -1,8 +1,7 @@
 # forms_app
+Aplicacion hecha con FlutterBloc en la cual se hace explicacion e implementacion de Cubit y Flutter Bloc
 
-A new Flutter project.
-
-## Explicacion e implementacion de Cubit y Flutter Bloc
+# Explicacion e implementacion de Cubit y Flutter Bloc
 ## Bloc -> Business Logic Component
 
 # Equatable
