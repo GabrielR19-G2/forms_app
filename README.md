@@ -5,17 +5,17 @@ A new Flutter project.
 ## Explicacion e implementacion de Cubit y Flutter Bloc
 ## Bloc -> Business Logic Component
 
-## Equatable
+# Equatable
 -    Ayuda a bloc a saber si es el mismo estado o no y redibujar widgets. permite tener la referencia en base al buildContext o metodo build --
-## copyWith
+# copyWith
 -    Forma de copiar el estado anterior.
 
-## Cubit
+# Cubit
  ## State
 -    Podemos tener 1 o varios estados 
  ## Cubit
 -    Clase que maneja el estado, para emitir nuevos estados
-## Bloc
+# Bloc
 
  ## Bloc
 -    Manejador de estados
