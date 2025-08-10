@@ -22,3 +22,6 @@ Aplicacion hecha con FlutterBloc en la cual se hace explicacion e implementacion
 -    Podemos tener varios estados o 1. Propiedades del bloc.
  ## Event
 -    Util para saber qué tipos de eventos/métodos va a recibir nuestro bloc
+
+# TextFormField
+- Tiene una relacion con un formulario (TextField no)
